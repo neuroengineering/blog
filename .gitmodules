@@ -1,0 +1,6 @@
+[submodule "themes/hugo-zen"]
+	path = themes/hugo-zen
+	url = git@github.com:MSNE2016/hugo-zen.git
+[submodule "public"]
+	path = public
+	url = git@github.com:MSNE2016/msne2016.github.io.git
