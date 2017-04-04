@@ -1,6 +1,6 @@
 +++
 date = "2016-12-20T12:00:00"
-draft = false
+draft = true
 image = ""
 tags = ["howto"]
 title = "Contributing"
