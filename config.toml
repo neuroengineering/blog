@@ -3,8 +3,96 @@ baseurl = "https://msne2016.github.io"
 languageCode = "en-us"
 
 author = "MSNE Students"
-copyright = "MSNE All rights reserved."
+copyright = "All rights reserved."
+
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+# Define the number of posts per page
+paginate = 10
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
 
 [params]
-  logo      = "/img/neuroengineering-ensemble.jpg"
-  github    = "https://github.com/MSNE2016"
+    # Tell me who you are
+    author = "M.Sc. Neuroengineering"
+    bio = "Technical University Munich"
+    location = "Munich, Germany"
+    site_description = "MSNE Student Blog"
+    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    avatar = "/img/neuroengineering-ensemble.jpg"
+    github    = "https://github.com/MSNE2016"
+    logo      = "/img/neuroengineering-ensemble.jpg"
+    disable_mathjax = false # set to true to disable MathJax
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+
+    # Add custom assets with their paths relative to the static folder
+	custom_css = []
+	custom_js  = []
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "About"
+    link   = "2016/09/23/welcome-to-our-blog/"
+
+[[params.menu]]
+    before = false
+    label  = "Program Page"
+    link   = "http://www.msne.ei.tum.de/en/home"
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+    github          = "msne2016"
+    gitlab          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = ""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true

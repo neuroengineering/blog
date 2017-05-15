@@ -6,6 +6,7 @@ title = "Welcome to our blog!"
 math = true
 summary = """
 """
+banner = "/img/160920-msne-welcome.jpg"
 +++
 
 We are students from the Master of Science program in Neuroengineering (MSNE) at the Technical University in Munich and are using this site to share our experiences.

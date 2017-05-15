@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:MSNE2016/msne2016.github.io.git
+[submodule "themes/hugo-icarus-theme"]
+	path = themes/hugo-icarus-theme
+	url = git@github.com:MSNE2016/hugo-icarus-theme.git

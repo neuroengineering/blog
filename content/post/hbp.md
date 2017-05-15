@@ -1,5 +1,5 @@
 +++
-date = "2016-12-20T12:00:00"
+date = "2017-02-10T12:00:00"
 draft = false
 tags = ["events"]
 title = "1st Human Brain Project student conference in Vienna" 
@@ -7,6 +7,7 @@ math = true
 summary = """
 Some remarks about the homepage layout and how to contribute.
 """
+banner = "/img/170205-2-hbp.jpg"
 +++
 
 

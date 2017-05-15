@@ -1,6 +1,6 @@
 #!/bin/bash
 
-hugo --theme=hugo-zen
+hugo --theme=hugo-icarus-theme
 cd public
 git add --all
 git commit -m "Automatic page build"

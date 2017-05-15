@@ -5,8 +5,8 @@ tags = ["events"]
 title = "Christkindl Market"
 math = true
 summary = """
-Some remarks about the homepage layout and how to contribute.
 """
+banner="/img/161209-christkindl.jpg"
 +++
 
 ![Group Photo Christkindl Market](/img/161209-christkindl.jpg)
