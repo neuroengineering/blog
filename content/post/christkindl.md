@@ -9,8 +9,6 @@ summary = """
 banner="/img/161209-christkindl.jpg"
 +++
 
-![Group Photo Christkindl Market](/img/161209-christkindl.jpg)
-
 On Dec. 9th we met with the MSNE program manager, Florian Rattei, at one of the many Christkindl-Markets in Munich for some nice hot Glühwein.
 
 The medival-themed market with its many craftsmen and -women including a glassblower, a goldsmith and calligraphers as well as the authentic wooden stalls immediately makes one forget the stressful daily routine and emits a traditional Christmassy atmosphere. 

@@ -11,8 +11,6 @@ banner = "/img/170205-2-hbp.jpg"
 +++
 
 
-![](/img/170205-2-hbp.jpg)
-
 In February, Raja, Abdallah, James and Nicolas had the chance to attend the first student conference of the European Human Brain Project in Vienna. This study trip was carried out within the MSNE program and was supported by the Elite Network of Barvaria (ENB). 
 
 Having already brought our suitcases to the final exam in *Computational Neuroscience*, we started our trip directly after handing in our solutions. Late in the evening, after a four-hour train ride, we finally arrived in Vienna and checked in at our hotel which was in walking distance to the university of Vienna where the conference was hosted. 
