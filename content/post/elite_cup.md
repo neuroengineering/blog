@@ -43,5 +43,8 @@ So, if you are a great football player, we encourage you to apply to the MSNE pr
 We would like to thank the organizers for the great tournament as well as TNG Technology Consulting for sponsoring lunch. 
 
 
+*Nicolas Berberich*
+
+
 
 
