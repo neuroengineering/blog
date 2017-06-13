@@ -15,7 +15,7 @@ The ENB EliteCup 2017 is a football tournament between the master programs of th
 This year, we jumped at the opportunity to participate and assembled a neuroengineering team, called 'The Neuruns'.
 
 Despite the odds of being still a very small program and some of us not being able to play due to Ramadan, we managed to form a team of sufficiently many players. 
-Our thanks goes to Lucas, a PhD student at the NST, and Rodrigo, a Neuroscience student at LMU, for reinforcing our team. 
+Our thanks goes to Lucas, a PhD student at the NST, and ⁠⁠⁠Davide, a Neuroscience student at LMU, for reinforcing our team. 
 We were furthermore very happy to have Prof. Conradt in our team who brought some structure into our otherwise chaotic strategy. 
 
 Besides having by far the highest participation rate of all master programs, we also had the highest number of female players with Pooja and Auguste who were doing an amazing job in our defense. 
