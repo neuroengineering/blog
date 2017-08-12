@@ -1,6 +1,6 @@
 +++
 date = "2017-06-12T12:00:00"
-draft = false
+draft = true
 image = ""
 tags = ["events"]
 title = "4th HBP Summer School" 
@@ -117,6 +117,7 @@ $$
 
 ## Tutorial Sessions
 
+During the week, several introductions to techniques relevant for neuromorphic computing and computational neuroscience where introduced
 
 ![](/img/hbp-summer-school/lecture.jpg)
 
