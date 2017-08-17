@@ -6,7 +6,7 @@ author = "MSNE Students"
 copyright = "All rights reserved."
 
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-100960818-1"
+# googleAnalytics = "UA-100960818-1"
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
