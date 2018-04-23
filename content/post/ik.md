@@ -31,8 +31,8 @@ Sleep-deprived and with a huge backlog of interesting research papers and direct
 ### Posters presented by MSNE students
 
 - Berberich N, Diepold K</br>
-[VirtuousAI: An apprenticeship learning approach for building moral machines](http://virtuousai.com)
+[VirtuousAI: An apprenticeship learning approach for building moral machines](http://virtuousai.com)</br>**Best poster award**
 - Schneider S, Ehrlich S, Bug D, Cheng G, Merhof D</br>
-[Don't classify, generate: Dreaming up EEG Sequences for domain adaptation and data-efficient learning](#)
+[Don't classify, generate: Dreaming up EEG Sequences for domain adaptation and data-efficient learning](http://stes.io)
 
 *Written by Nicolas Berberich and Pranshul Saini*
