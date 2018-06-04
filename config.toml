@@ -8,7 +8,7 @@ copyright = "All rights reserved."
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = "UA-100960818-1"
 # Define the number of posts per page
-paginate = 10
+paginate = 30
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 
@@ -24,9 +24,9 @@ theme = "hugo-icarus-theme"
     location = "Munich, Germany"
     site_description = "MSNE Student Blog"
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
-    avatar = "/img/neuroengineering-ensemble.jpg"
+    avatar = "/img/logo/msne.svg"
     github    = "https://github.com/MSNE2016"
-    logo      = "/img/neuroengineering-ensemble.jpg"
+    logo      = "/img/logo/msne.svg"
     disable_mathjax = false # set to true to disable MathJax
 
     # Format dates with Go's time formatting
@@ -55,13 +55,18 @@ theme = "hugo-icarus-theme"
 [[params.menu]]
     before = false
     label  = "Program Page"
-    link   = "http://www.msne.ei.tum.de/en/home"
+    link   = "http://www.msne.ei.tum.de"
+
+[[params.menu]]
+    before = false
+    label  = "Imprint"
+    link   = "2000/01/01/impressum/imprint/"
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "msne2016"
+    github          = "neuroengineering"
     gitlab          = ""
     bitbucket       = ""
     jsfiddle        = ""
@@ -93,6 +98,6 @@ theme = "hugo-icarus-theme"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = true
-    tags = true
-    tag_cloud = true
+    categories = false
+    tags = false
+    tag_cloud = false
