@@ -1,6 +1,6 @@
 +++
 date = "2018-06-09T12:00:00"
-draft = false
+draft = false 
 image = ""
 tags = ["events"]
 title = "MSNE team 'Neuruns' at the ENB EliteCup 2018"
