@@ -3,7 +3,6 @@ baseurl = "https://msne2016.github.io"
 languageCode = "en-us"
 
 author = "MSNE Students"
-copyright = "All rights reserved."
 
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = "UA-100960818-1"
@@ -23,7 +22,13 @@ theme = "hugo-icarus-theme"
     bio = "Technical University Munich"
     location = "Munich, Germany"
     site_description = "MSNE Student Blog"
-    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    copyright  = """Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).
+    <br/>Steffen Schneider & Nicolas Berberich &bull;
+    Technische Universität München &bull;
+    Arcisstraße 21 &bull;
+    80333 München
+    <br/> [Impressum/Imprint](/2000/01/01/impressum/imprint/)
+    """
     avatar = "/img/logo/msne.svg"
     github    = "https://github.com/MSNE2016"
     logo      = "/img/logo/msne.svg"

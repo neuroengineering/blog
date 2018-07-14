@@ -3,10 +3,9 @@ date = "2000-01-01T12:00:00"
 draft = false
 image = ""
 tags = ["imprint"]
-title = "Impressum/Imprint"
+title = "Imprint"
 math = true
 summary = """
-Test
 """
 banner = ""
 +++
