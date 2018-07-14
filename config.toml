@@ -1,5 +1,5 @@
 title = "MSNE Blog"
-baseurl = "https://msne2016.github.io"
+baseurl = "http://neuroengineering.blog"
 languageCode = "en-us"
 
 author = "MSNE Students"
