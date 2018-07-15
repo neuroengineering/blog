@@ -30,7 +30,7 @@ theme = "hugo-icarus-theme"
     <br/> [Impressum/Imprint](/2000/01/01/impressum/imprint/)
     """
     avatar = "/img/logo/msne.svg"
-    github    = "https://github.com/MSNE2016"
+    github    = "https://github.com/neuroengineering"
     logo      = "/img/logo/msne.svg"
     disable_mathjax = false # set to true to disable MathJax
 
