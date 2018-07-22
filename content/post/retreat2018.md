@@ -19,22 +19,19 @@ In our Retreat we had the honour to have the presence of Professor [Jakob Macke]
 
 Professor Macke and his PhD student Artur Speiser talked about their work developing statistical models to model neural activity. Macke's research intends to understand how neurons and population of neurons process sensory cues from the external world and performs computations on it in order to perform control, behaviour and cognitive tasks.
 
-![](/img/macke.jpg)
+![](/img/180603-retreat/Macke.jpg)
 
 In order to do that they develop statistical models and machine learning algorithms working with recorded data from live brains as well as simulated neural activity.
 
 Professor Grewe comes from the University of Zurich, more specifically from the [Institute of Neuroinformatics](https://www.ini.uzh.ch). His talk was about the ups and downs of Hebbian plasticity in associative fear learning. During the talk he illustrated the principles behind Calcium imaging, his expertise. Understanding the basis of information processing and memory formation in neuronal networks is his primary research focus. 
 
-![](/img/grewe.jpg)
+![](/img/180603-retreat/Grewe.jpg)
 
-![](/img/grewe-macke.jpg)
-
-During the debate we had the pleasure to watch these two experts sharing ideas in front of us.
-
+![](/img/180603-retreat/grewe-macke.jpg)
 
 Our third guest speaker was Professor Thomas Euler. He is the head of The [Institute for Opthalmic Research](http://www.eye-tuebingen.de/eulerlab/) in Universiätsklinikum Tübingen. His research focuses on understanding the function and organization of the retinal microcircuit and the underlying computational principles, as well as the changes of such microcircuits during development and degeneration.
 
-![](/img/euler.jpg)
+![](/img/180603-retreat/Euler.jpg)
 
 
 ## Student Talks
@@ -46,7 +43,7 @@ A reasonably big portion of the retreat was devoted to student talks. Overall, w
 
 In the very first student talk, Aleksandra Teska talked about Data Visualization with Python showing off her colorful figures from her research internship project. Her presentation, not only introduced JupyterLab and its useful extension for presentation, but also showed us the importance of data and data visualization in biasing our conclusions.
 
-![](/img/alex.jpg)
+![](/img/180603-retreat/Alexs.jpg)
 
 She finished her presentation by showing us some of her results from her research project, where she took advantage of visualization tools in python to have beautiful informative figures. Her research project was on analysing rats motion while being presented by rotating black and white bars. 
 
@@ -62,12 +59,10 @@ This talk was so wonderful that I could continue writing about it several more p
 
 In this talk our colleague Werner Seitz shared with us some experiments about behaviour in animals and how our notion of reality can be strongly influenced by the survival mechanisms that our brain developed.
 
-![](/img/werner.jpg)
+![](/img/180603-retreat/Werner.jpg)
 
 An example of this is the attention of frog’s visual system conditioned by the shape and the direction of movement of an object. Since these features are normally present in food observation. If those features are not present, the frog shows no interest in the visual stimulus.
 A similar behaviour can be observed in some kind of beetles that look for brown, big, cylindrical objects for reproductive purposes and sometimes end up mistaken other objects like brown crystal bottles with female individuals of it specie XD. 
-
-![](/img/animal?.jpg)
 
 The main point of Werner's talk was to show that our brain is not objective in the interpretation of sensory cues that it receives from the environment and for that reason our interpretation of reality and behaviour is strongly influenced by the survival mechanisms that our brain developed.
 In the end of the talk Werner used a genetic algorithm example to show how this interpretation of reality in terms of the survival mechanisms can help or not for an individual to survive in a given environment.
@@ -77,14 +72,14 @@ In the end of the talk Werner used a genetic algorithm example to show how this 
 
 Deep neural networks are by far the most successful machine learning models nowadays when it comes to the processing of large datasets composed of natural signals. While originally inspired by advances in neuroscience in the 1950s, the field has branched to a certain extent over the past years. The talk of our colleague Steffen Schneider addressed the core principles in training neural networks and highlighted difficulties that today’s best algorithms face when it comes to robust inference making a comparison with human visual system.
 
-![](/img/steffen.jpg)
+![](/img/180603-retreat/Steffen.jpg)
 
 Steffen’s Talk also addressed the core problems of adversarial samples for classification systems and how to deal with domain shift under different noise models making a parallel between the way in which human brain deals with this problems in object recognition and the way we could integrate this brain solutions to artificial neural network architectures.
 
 
 ### Sensory-motor proprioception in robotics by Germán Díez Valencia
 
-![](/img/german.jpg)
+![](/img/180603-retreat/German.jpg)
 
 In this talk our colleague Germán Díez Valencia showed us some highlights of his work in the emulation of sensory-motor proprioception in robots. Through his presentation we discussed important topics like predictive coding and the free energy principle, and its viability to be applied in this emulation framework.  
 The talk also went through concepts like sensor fusion and how to make this fusion using deep learning architectures, as well as how to use this deep learning architectures to fuse sensory cues, and how possibly one can use this to model sensory-motor proprioception in robots.
@@ -100,12 +95,13 @@ Politics is a very important part of our everyday life. Since we are living in G
 
 The last talk, prepared by Nicolas, was about *Huxleysia*. Huxleysia is a democratic country that does not have natural resources and is facing an economic crisis. The government of Huxleysia believes that their real resources are in the heads of their people, and they want to improve these resources. Students were asked to form groups, and within 40 minutes of discussion, design neuroenhancement solutions that would help Huxleysia have smarter citizens and overcome the economic crisis. Afterwards each groups presented their solutions and Nicolas continued by talking about the definition of good life, and considerations while designing a technology that affects humans, such as involving the society while designing a technology for the society, caring about humanistic values, as well as thinking about the systemic sequence of the technological artifact.
 
-![](/img/organization.jpg)
+
+![](/img/180603-retreat/Groupwork.jpg)
+
 Figure 1: Each group's (and members') contribution to the presentation. (a) The histogram of the total contribution of each member, and groups. The outer numbers are the number of members in each group. (b) Each group’s location in the room (this is just a hint for the participants to find their group).
 
 During the presentation, as a fun activity, we recorded the total time of each participants contribution in the presentation. The results are shown in figure 1. Some interesting information could be gained from this data. For instance, as we can see from Figure 1a, some groups have done a great job distributing the presentation throughout their members, as oppose to some other groups - whether that is an strategy or not, is left for the groups and their members to discuss.
 
-![](/img/groupexercise.jpg)
 
 
 
@@ -194,10 +190,10 @@ Neuroengineering Journal Club project is initiated to take this to a pragmatic l
 
 ### The Organizers
 
-![](/img/organizers.jpg)
+![](/img/180603-retreat/Organizers.jpg)
 
 We would like to say thanks to our friends Annika Thierfelder, Francisco Zurita and Jonas Braun who made this retreat possible. They were in charge of the entire organization of the retreat, which included accommodation, transportation, guest talks and activities.
 They did a wonderful job coordinating people, and invested a lot of time to make this experience unique. This wonderful occasion allowed for the two batches of neuroengineering students  to get to know each other better, as well as getting involved with the invited guests, maximizing our learning, teamwork and fun.
 We wish to express all our gratitude! You made this unforgettable experience possible!
 
-*Viktorija, Mohammad and Germán*
+*written by Viktorija, Mohammad and Germán*
