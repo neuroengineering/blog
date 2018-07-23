@@ -1,5 +1,5 @@
 title = "MSNE Blog"
-baseurl = "http://neuroengineering.blog"
+baseurl = "https://neuroengineering.blog"
 languageCode = "en-us"
 
 author = "MSNE Students"

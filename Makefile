@@ -18,4 +18,4 @@ push:
 	git commit -m "Automatic repo commit"
 	git push origin master
 
-all: clean page publish push
+all: page publish push
