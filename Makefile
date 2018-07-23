@@ -12,7 +12,6 @@ publish:
 	cd public && git add --all
 	cd public && git commit -m "Automatic page build"
 	cd public && git push origin master
-	cd public && git push msne master
 
 push:
 	git add .
