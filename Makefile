@@ -1,3 +1,6 @@
+studentlist:
+	python3 build_studentlist.py
+
 clean:
 	rm -rf public/*
 
