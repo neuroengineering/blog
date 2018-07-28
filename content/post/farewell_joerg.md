@@ -13,7 +13,7 @@ banner = "/img/farewell_joerg/IMG-3838.jpg"
 
 As our co-director Prof. Jörg Conradt will be moving to KTH (Sweden) in August to build up a research group there, Auguste and I organized a farewell party for him. 
 With support from the chair for Electrical Energy Storage Technology, we set up a bunch of tables in the backyard of the Karlsstraße university building and everyone of us neuroengineering students brought some food. 
-Mirroring the diversity of our nationalities we had a plephora of tasty pieces, from Bavarian brezels and Italian caprese salad to great eastern dishes that I couldn't remember the names of. We were also joined by several of Jörg's PhD students. It was especially nice to see the whole ICS team of Prof. Gordon coming by and giving their best wishes. 
+Mirroring the diversity of our nationalities we had a plethora of tasty dishes, from Bavarian brezels and Italian caprese salad to great eastern dishes that I can't remember the names of. We were also joined by several of Jörg's PhD students. It was especially nice to see the whole ICS team of Prof. Gordon coming by and giving their best wishes. 
 
 ![](/img/farewell_joerg/presents.jpg)
 
