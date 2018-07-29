@@ -21,4 +21,4 @@ Auguste held a fantastic farewell speech, thanking Jörg for everything he did f
 
 We wish Jörg all the best for his time in Sweden and hope to keep in touch. 
 
-*Nicolas Berberich*
+<div class="chip"><img src="/img/student-list/portrait - Nicolas Berberich.jpg" width="96" height="96">Nicolas Berberich</div><br/>
