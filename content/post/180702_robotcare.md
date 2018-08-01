@@ -24,15 +24,16 @@ After a welcome from Prof. Maasen, our invited experts gave short presentations 
 [Birte Carlmeyer](https://aiweb.techfak.uni-bielefeld.de/user/bcarlmey), a roboticist and PhD student of Prof. Britta Wrede from the University of Bielefeld did not refute these claims but emphasized that there is promising research being done, especially in the area of forms of expressions (facial expressions, gestures etc.).
 Our third and last expert was the philosopher [Prof. Dr. Johanna Seibt](http://pure.au.dk/portal/en/persons/johanna-seibt(60a3d664-19f6-4fb6-9bde-625e6cee6f53).html) from Aarhus University, who argued that in social robotics one does not produce things, but social interactions and that it is important to involve ethical considerations from the beginning in every design process in social robotics.
  
-![The "Parcours der Zukunft" with active participation of our guests](/img/robotcare/poster_session.JPG)
+![](/img/robotcare/poster_session.JPG)
+*The "Parcours der Zukunft" with active participation of our guests*
 
 Following the talks, Benjamin Lipp invited the attendants to the "Parcours der Zukunft" which we had prepared outside. On four big poster stands, we had prepared illustrations of state-of-the-art care robots in the fields of mobility, social interactions, hygiene and nutrition/eating. At each poster stand, one of us (Benjamin, Laura, Auguste and me) were standing and inviting the visitors to discuss the respective technologies regarding whether they were actually useful/desirable and how they should be different to add value to our guest's specific situations. We were standing by and summarized the points made by our guests on post-it notes. In a final discussion with the experts, some of these points were brought up again and discussed with the whole audience and our experts.
  
 It was a fantastic event with high attendance from seniors, care personnel, and researchers, but also surprisingly many young people.
 
 
-![Prof. Maasen in discussion with the audience](/img/robotcare/closeup.JPG)
-
+![](/img/robotcare/closeup.JPG)
+*Prof. Maasen in discussion with the audience*
 
 
 <div class="chip"><img src="/img/student-list/portrait - Nicolas Berberich.jpg" width="96" height="96">Nicolas Berberich</div><br/>
