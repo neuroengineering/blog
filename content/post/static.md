@@ -101,7 +101,7 @@ height:100%;
     </div>
     <p><b>Mohammad Bashiri</b>
     </br>
-    Check out my blog ;)
+    Bayesian Inference; Cognitive Computational Neuroscience; Motor Memory and Learning; Brain Stimulation; Neural Data Analysis
     </p>
     <div id="linklist">
     <a href="mailto:m.bashiri@tum.de" class="link"><i class="fa fa-envelope"></i></a>
@@ -119,10 +119,10 @@ height:100%;
     </div>
     <p><b>Nicolas Berberich</b>
     </br>
-    I'm interested in the science and philosophy of emerging technologies (robotics, AI, neurotech). Love systems science, humanism and Bildung.
+    Working on the science, philosophy and ethics of emerging technologies (robotics, AI, neurotech). Love systems science, humanism and Bildung.
     </p>
     <div id="linklist">
-    <a href="mailto:n.berberich@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+    <a href="mailto:n.berberich@tum.de" class="link"><i class="fa fa-envelope"></i></a>
 <a href="https://nberb.github.io/" class="link"><i class="fa fa-link"></i></a>
 <a href="https://www.linkedin.com/in/nicolas-berberich-768a4379/" class="link"><i class="fa fa-linkedin"></i></a>
     </div>
@@ -187,6 +187,20 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Cristina_Gil Ávila.jpg" >
+    </div>
+    <p><b>Cristina Gil Ávila</b>
+    </br>
+    Computational approaches to cognition, Natural Language Processing, Science and Technologies Studies in Neuroscience
+    </p>
+    <div id="linklist">
+    <a href="mailto:cris.gil.avila@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/cristina-gil-avila/" class="link"><i class="fa fa-linkedin"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/Raja - Raja Judeh.jpg" >
     </div>
     <p><b>Raja Judeh</b>
@@ -197,6 +211,19 @@ height:100%;
     <a href="mailto:judeh.raja@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
 <a href="https://bitbucket.org/RJudeh/" class="link"><i class="fa fa-github"></i></a>
 <a href="https://www.facebook.com/raja.judeh" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/Kotkat.png" >
+    </div>
+    <p><b>Ann Kotkat</b>
+    </br>
+    Interested in Visual systems (biological and artificial), Neuroprosthetics and Brain Computer Interface. Additionally I am curious about neuromorphic computing.
+    </p>
+    <div id="linklist">
+    <a href="mailto:ann.kotkat@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
     </div>
 </div>
 
@@ -234,7 +261,7 @@ height:100%;
     </div>
     <p><b>Elisa Pavarino</b>
     </br>
-    I'm genuinely curious of many domains of Neuroengineering, with a stronger focus on Connectomics and Computational Neurosciences.
+    I'm genuinely curious about many domains of Neuroengineering, with a stronger focus on Connectomics and Computational Neurosciences.
     </p>
     <div id="linklist">
     <a href="mailto:elisa.catherine3@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
@@ -294,6 +321,22 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Aleks_Teska_profpict.jpg" >
+    </div>
+    <p><b>Aleksandra Teska</b>
+    </br>
+    Computational Neuroscience, Data Analysis and Machine Learning 
+    </p>
+    <div id="linklist">
+    <a href="mailto:aleksandra.teska@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/alteska/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://github.com/alTeska" class="link"><i class="fa fa-github"></i></a>
+<a href="https://www.facebook.com/profile.php?id=100002907258325" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/Thierfelder_Annika_Profile - Annika Thierfelder.jpg" >
     </div>
     <p><b>Annika Thierfelder</b>
@@ -330,5 +373,7 @@ height:100%;
     </p>
     <div id="linklist">
     <a href="mailto:francisco.zurita@tum.de" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/francisco-zurita-90ab8358/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://github.com/FranciscoZurita" class="link"><i class="fa fa-github"></i></a>
     </div>
 </div>
