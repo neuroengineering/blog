@@ -1,7 +1,6 @@
 +++
 date = "2018-06-24T12:00:00"
 draft = false
-banner = "/img/projects/journal-club_01.jpg"
 tags = ["events"]
 title = "MSNE Journal Club"
 math = true
@@ -10,7 +9,12 @@ summary = """
 """
 +++
 
-Science communication is an essential aspect of scientific research. It enables scientists and  researchers to inform each other, as well as the public, about science progress and invoke scientific, political and ethical thinking. The general purpose of a journal club is to facilitate the review of research studies and to discuss implications of the study in practice. In general, a journal club helps with:
+### Why a Journal Club?
+
+Science communication is an essential aspect of scientific research. It enables scientists and  researchers to inform 
+each other, as well as the public, about science progress and invoke scientific, political and ethical thinking. 
+The general purpose of a journal club is to facilitate the review of research studies and to discuss implications of 
+the study in practice. In general, a journal club helps with:
 
 - Sharing knowledge of current research
 - Facilitating the learning process
@@ -19,14 +23,47 @@ Science communication is an essential aspect of scientific research. It enables 
 - Encouraging research utilization, and
 - Promoting team building
 
-During the course of our master program, we have two mandatory discussion seminar blocks, which are very helpful in training us with the above mentioned traits. The existence of a journal club in which students and researchers can interact without being evaluated would take these learnings to another level and cultivates the trait of participating in critical scientific discussions in students.
+Neuroengineering Journal Club (NJC) is all about the above-mentioned objectives. Learning through presentations and discussions, 
+networking by promoting a diverse audience as well as inviting speakers outside the neuroengineering program, 
+from research institutes and industry.
 
-This journal club is expected to have a frequency of once every two weeks, and attract students not only from Neuroengineering, but any other field that has potential relations to neuroengineering. Speakers in this journal club include neuroengineering students, as well as invited PhD and PostDoc candidates from laboratories and institutions related to the field.
+### When and Where?
 
-### Papers presented so far
+NJC is expected to have a frequency of at least once a month. The venue of the events will mostly be announced a week before the 
+event. However, we are likely to have most of the events near the TUM main campus.
 
-- 24/06/2018. Presentatin by Werner: "Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats", Garfinkel et al.
+### Upcoming events
 
-### Contact Person
+Topic: TBA<br>
+Speaker: TBA<br>
+Date: TBA<br>
+For a summary of this event please click [here](link).
 
-Mohammad Bashiri, Werner Seitz
+### Past events
+
+Topic: "Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats", Garfinkel et al.<br>
+Speaker: Werner Seitz <br>
+Date: 24/06/2018 <br>
+For a summary of this event please click here [here](link).
+
+### How to get notified?
+
+Please sign up for our mailing list by sending us an email at m.bashiri@tum.de, with an indication of interest to 
+be added to the mailing list.
+
+### How to give a talk?
+
+1. Choose a topic: you can either propose a topic, or be inspired by the list of topics provided by us [here](link).
+2. Send us an email and we will get in touch with you. Please include the following information in your email:
+- name
+- affiliation
+- topic
+- preferred date
+
+
+### Contact
+
+In case of any inquiries do not hesitate to contact us: <br>
+
+Mohammad Bashiri - m.bashiri@tum.de <br>
+Werner Seitz - seitz-werner@hotmail.de
