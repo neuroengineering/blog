@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="270fc16f-aa3b-4a21-9342-c9812e84d3ec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/post/180624_journal-club.md" afterPath="$PROJECT_DIR$/content/post/180624_journal-club.md" />
+    <list default="true" id="270fc16f-aa3b-4a21-9342-c9812e84d3ec" name="Default" comment="refactored the journal club post">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/blog.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/content/post/180624_journal-club.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="362">
-                <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <first_editor relative-caret-position="379">
+                <caret line="63" column="11" lean-forward="true" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -41,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="njc" />
       </map>
     </option>
   </component>
@@ -299,8 +303,8 @@
     <entry file="file://$PROJECT_DIR$/content/post/180624_journal-club.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="362">
-            <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <first_editor relative-caret-position="379">
+            <caret line="63" column="11" lean-forward="true" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
