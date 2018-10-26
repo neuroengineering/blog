@@ -22,7 +22,7 @@ theme = "hugo-icarus-theme"
     bio = "Technical University Munich"
     location = "Munich, Germany"
     site_description = "MSNE Student Blog"
-    copyright  = """Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).
+    copyright  = """Powered by [Hugo](//gohugo.io). Theme by [jeblister](https://github.com/jeblister).
     <br/>Steffen Schneider & Nicolas Berberich &bull;
     Technische Universität München &bull;
     Arcisstraße 21 &bull;
@@ -51,6 +51,11 @@ theme = "hugo-icarus-theme"
     before = true
     label  = "Home"
     link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "MSNE Journal Club"
+    link   = "http://neuroengineering.blog/njc"
 
 [[params.menu]]
     before = false
