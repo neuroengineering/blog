@@ -54,6 +54,11 @@ theme = "hugo-icarus-theme"
 
 [[params.menu]]
     before = false
+    label  = "MSNE Journal Club"
+    link   = "http://neuroengineering.blog/njc"
+
+[[params.menu]]
+    before = false
     label  = "About"
     link   = "2016/09/23/welcome-to-our-blog/"
 
