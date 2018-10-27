@@ -22,7 +22,7 @@ theme = "hugo-icarus-theme"
     bio = "Technical University Munich"
     location = "Munich, Germany"
     site_description = "MSNE Student Blog"
-    copyright  = """Powered by [Hugo](//gohugo.io). Theme by [jeblister](https://github.com/jeblister).
+    copyright  = """Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).
     <br/>Steffen Schneider & Nicolas Berberich &bull;
     Technische Universität München &bull;
     Arcisstraße 21 &bull;
