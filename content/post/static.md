@@ -66,6 +66,21 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Nikita Agarwal.jpg" >
+    </div>
+    <p><b>Nikita Agarwal</b>
+    </br>
+    I am interested in studying the underlying principles of cognitive processes and translating them into technology. 
+    </p>
+    <div id="linklist">
+    <a href="mailto:nikitaagarwal.iiita@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/nikiita013/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.facebook.com/nikiita013" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/AbdallahProfilePic - Abdallah Alashqar.png" >
     </div>
     <p><b>Abdallah Alashqar</b>
@@ -160,6 +175,20 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Michael_Deistler.jpg" >
+    </div>
+    <p><b>Michael Deistler</b>
+    </br>
+    Theoretical Neuroscience, in particular the role of spike timing in the formation of memory and sensory perception
+    </p>
+    <div id="linklist">
+    <a href="mailto:michael.deistler95@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="michaeldeistler.github.io" class="link"><i class="fa fa-link"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/Viktorija - viktorija dimova.jpg" >
     </div>
     <p><b>Viktorija Dimova</b>
@@ -201,6 +230,38 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Elvin_Hajizada.jpg" >
+    </div>
+    <p><b>Elvin Hajizada</b>
+    </br>
+    Computational Intelligence, Computational Neuroscience, Memory, Cognitive Psychology. I am interested in Grand theories of Intelligence.
+    </p>
+    <div id="linklist">
+    <a href="mailto:elvinhajizada97@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://medium.com/@elvinhajizada" class="link"><i class="fa fa-link"></i></a>
+<a href="https://www.linkedin.com/in/elvin-hajizada/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://github.com/elvinhajizada" class="link"><i class="fa fa-github"></i></a>
+<a href="https://www.facebook.com/elvin.hacizade.39" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/isabelle_hoxha.jpg" >
+    </div>
+    <p><b>Isabelle Hoxha</b>
+    </br>
+    I am interested in brain signal processing and neuroprosthetics, and neurodegenerative diseases.
+    </p>
+    <div id="linklist">
+    <a href="mailto:isabelle.hoxha@tum.de" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/isabelle-hoxha-9ab638130/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.facebook.com/isabelle.igme" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/Raja - Raja Judeh.jpg" >
     </div>
     <p><b>Raja Judeh</b>
@@ -216,14 +277,42 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Mert_Keser.png" >
+    </div>
+    <p><b>Mert  Keser</b>
+    </br>
+    I am interested in Deep Learning and Neuro-Robotics.
+    </p>
+    <div id="linklist">
+    
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/Kotkat.png" >
     </div>
     <p><b>Ann Kotkat</b>
     </br>
-    Interested in Visual systems (biological and artificial), Neuroprosthetics and Brain Computer Interface. Additionally I am curious about neuromorphic computing.
+    Interested in Visual systems (biological and artificial), Neuroprosthetics, Brain Computer Interfaces and neuromorphic computing.
     </p>
     <div id="linklist">
     <a href="mailto:ann.kotkat@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/Küpelioğlu.png" >
+    </div>
+    <p><b>Nogay Küpelioğlu</b>
+    </br>
+    Interested in Deep Learning, Reinforcement Learning and Neuro-Robotics. Nature-inspired neural networks is also an interest of mine.
+    </p>
+    <div id="linklist">
+    <a href="mailto:nogay.kuepelioglu@tum.de" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/nogay-k%C3%BCpelio%C4%9Flu-929a4315b/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.facebook.com/profile.php?id=100021767552483" class="link"><i class="fa fa-facebook"></i></a>
     </div>
 </div>
 
@@ -238,6 +327,34 @@ height:100%;
     <div id="linklist">
     <a href="mailto:james.lawton@tum.de" class="link"><i class="fa fa-envelope"></i></a>
 <a href="https://www.linkedin.com/in/james-lawton-51472470/" class="link"><i class="fa fa-linkedin"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/portrait - Aleksandar Levic.jpg" >
+    </div>
+    <p><b>Aleksandar Levic</b>
+    </br>
+    My main interests are neurorobotics and neuroprosthetics. I would also like to gain knowledge in neuromorphic systems.
+    </p>
+    <div id="linklist">
+    <a href="mailto:ewok261@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.facebook.com/aleksandar.levic" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/ElioNakhle.jpg" >
+    </div>
+    <p><b>Elio Nakhle</b>
+    </br>
+    Interested in Brain computer interfaces and Neuroprosthetics
+    </p>
+    <div id="linklist">
+    <a href="mailto:eenakhle@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.facebook.com/elio.nakhle" class="link"><i class="fa fa-facebook"></i></a>
     </div>
 </div>
 
@@ -267,6 +384,20 @@ height:100%;
     <a href="mailto:elisa.catherine3@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
 <a href="https://www.linkedin.com/in/elisa-pavarino-0ab10ba8/" class="link"><i class="fa fa-linkedin"></i></a>
 <a href="https://www.facebook.com/elisac.pavarino.9" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/Profile - Mariia Popova-cropped.jpg" >
+    </div>
+    <p><b>Mariia Popova</b>
+    </br>
+    I am interested in neuroprosthetics and BCI or robotics 
+    </p>
+    <div id="linklist">
+    <a href="mailto:mapopova6@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.facebook.com/maria.popova.334" class="link"><i class="fa fa-facebook"></i></a>
     </div>
 </div>
 
@@ -321,6 +452,48 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Lisa_Sogerer.jpg" >
+    </div>
+    <p><b>Lisa Sogerer</b>
+    </br>
+    Especially interested in brain signal processing, neurorecording methods and treatment of neuropsychiatric diseases.
+    </p>
+    <div id="linklist">
+    <a href="mailto:lisa.sogerer@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/lisa-sogerer-844086123/" class="link"><i class="fa fa-linkedin"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/Lucas_Stoffl.jpg" >
+    </div>
+    <p><b>Lucas Stoffl</b>
+    </br>
+    I'm especially interested in the areas of artificial intelligence, deep learning and computational neuroscience.
+    </p>
+    <div id="linklist">
+    <a href="mailto:lucas.stoffl@tum.de" class="link"><i class="fa fa-envelope"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/Nick_Tacca.jpg" >
+    </div>
+    <p><b>Nick Tacca</b>
+    </br>
+    Neuroprosthetics, Brain-Computer-Interfaces, Robotics
+    </p>
+    <div id="linklist">
+    <a href="mailto:nicholas.tacca@tum.de" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/nick-tacca-77b35630/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.facebook.com/ntacca" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/Aleks_Teska_profpict.jpg" >
     </div>
     <p><b>Aleksandra Teska</b>
@@ -350,6 +523,34 @@ height:100%;
 
 <div class="card">
     <div class="image-cropper">
+    <img src="/img/student-list/Melanie Tschiersch.jpeg" >
+    </div>
+    <p><b>Melanie Tschiersch</b>
+    </br>
+    Neuroprosthetics and -robotics, Computational Neuroscience and Artificial Intelligence are topics that fascinate me.
+    </p>
+    <div id="linklist">
+    <a href="mailto:mel.tschiersch@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.facebook.com/melanie.tschiersch" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/Anna_Vasilevskaya.jpg" >
+    </div>
+    <p><b>Anna Vasilevskaya</b>
+    </br>
+    Interested in Neurophysiology of human and animal visual systems, mechanisms of visual processing, modeling artificial visual systems.
+    </p>
+    <div id="linklist">
+    <a href="mailto:anna.m.vasilevskaya@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.facebook.com/anya.vasilevskaya.92" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
     <img src="/img/student-list/pooja - pooja verma.jpg" >
     </div>
     <p><b>Pooja Verma</b>
@@ -360,6 +561,21 @@ height:100%;
     <a href="mailto:pooja.verma@tum.de" class="link"><i class="fa fa-envelope"></i></a>
 <a href="https://www.linkedin.com/in/pooja-verma-a5b1a973/" class="link"><i class="fa fa-linkedin"></i></a>
 <a href="https://www.facebook.com/vrmpooja" class="link"><i class="fa fa-facebook"></i></a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="image-cropper">
+    <img src="/img/student-list/yagmur yener pp.jpg" >
+    </div>
+    <p><b>Yagmur Yener</b>
+    </br>
+    Getting inspiration from neuroscience for deep learning applications. Using deep learning for cracking the code of the brain.
+    </p>
+    <div id="linklist">
+    <a href="mailto:yagmur.yener.yy@gmail.com" class="link"><i class="fa fa-envelope"></i></a>
+<a href="https://www.linkedin.com/in/ya%C4%9Fmur-yener-9163a089/" class="link"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.facebook.com/yagmur.yener.562" class="link"><i class="fa fa-facebook"></i></a>
     </div>
 </div>
 
