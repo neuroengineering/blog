@@ -54,9 +54,24 @@ theme = "hugo-icarus-theme"
     link   = "/"
 
 [[params.menu]]
-    before = false
+    before = false 
+    label  = "Research"
+    link   = "about/research/"
+
+[[params.menu]]
+    before = false 
+    label  = "Students"
+    link   = "people/"
+
+[[params.menu]]
+    before = false 
+    label  = "Journal Club"
+    link   = "about/journalclub"
+
+[[params.menu]]
+    before = false 
     label  = "About"
-    link   = "2016/09/23/welcome-to-our-blog/"
+    link   = "about/about/"
 
 [[params.side]]
     label = "Journal Club Homepage"

@@ -4,8 +4,9 @@ draft = false
 image = ""
 tags = ["imprint"]
 title = "Journal Club"
-menu = "main"
+menu = ""
 math = true
+banner = "/img/projects/journal-club_01.jpg"
 +++
 
 

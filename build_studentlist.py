@@ -6,11 +6,12 @@ import datetime
 
 head = u"""
 +++
-title = "Students"
+title = "MSNE List of Students"
 date = "{}"
 type = "people"
 layout="single"
-menu="main"
+menu=""
+banner="img/180419-coc-summit.jpeg"
 
 """.format(datetime.date.today().strftime("%Y-%m-%d"))
 
@@ -19,6 +20,7 @@ foot = u"""
 +++
 
 This is a list of students enrolled in the MSNE program since program start in 2016.
+
 """
 
 tmpl = u"""

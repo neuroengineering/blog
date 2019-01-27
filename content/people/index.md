@@ -1,10 +1,11 @@
 
 +++
-title = "Students"
+title = "MSNE List of Students"
 date = "2019-01-27"
 type = "people"
 layout="single"
-menu="main"
+menu=""
+banner="img/180419-coc-summit.jpeg"
 
 
 [[students]]
@@ -325,3 +326,4 @@ menu="main"
 +++
 
 This is a list of students enrolled in the MSNE program since program start in 2016.
+
