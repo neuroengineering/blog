@@ -1,4 +1,4 @@
-title = "MSNE Blog"
+title = "The Neurogineering Blog"
 baseurl = "https://neuroengineering.blog"
 languageCode = "en-us"
 
@@ -18,16 +18,17 @@ theme = "hugo-icarus-theme"
 
 [params]
     # Tell me who you are
-    author = "M.Sc. Neuroengineering"
+    author = "Neuroengineering"
     bio = "Technical University Munich"
     location = "Munich, Germany"
-    site_description = "MSNE Student Blog"
+    site_description = "The Neuroengineering Blog"
     copyright  = """Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).
     <br/>Steffen Schneider & Nicolas Berberich &bull;
     Technische Universität München &bull;
     Arcisstraße 21 &bull;
     80333 München
-    <br/> [Impressum/Imprint](/2000/01/01/impressum/imprint/)
+    <br/> [Impressum (Imprint)](/about/impressium/) &bull;
+    [Datenschutzerklärung](/about/datenschutz/)
     """
     avatar = "/img/logo/msne.svg"
     github    = "https://github.com/neuroengineering"
@@ -54,7 +55,7 @@ theme = "hugo-icarus-theme"
 
 [[params.menu]]
     before = false
-    label  = "MSNE Journal Club"
+    label  = "Journal Club"
     link   = "http://neuroengineering.blog/njc"
 
 [[params.menu]]
@@ -62,15 +63,15 @@ theme = "hugo-icarus-theme"
     label  = "About"
     link   = "2016/09/23/welcome-to-our-blog/"
 
-[[params.menu]]
-    before = false
-    label  = "Program Page"
-    link   = "http://www.msne.ei.tum.de"
+[[params.side]]
+    label = "Journal Club Homepage"
+    link = "https://neuroengineering.blog/njc/"
 
-[[params.menu]]
-    before = false
-    label  = "Imprint"
-    link   = "2000/01/01/impressum/imprint/"
+[[params.side]]
+    label="Official Program Page"
+    link="http://www.msne.ei.tum.de/en/home/"
+
+
 
 [social]
 # Add your social network accounts to the profile section on the left

@@ -187,5 +187,5 @@ for i in range(len(df)):
     
 from IPython.core.display import HTML
 
-with open('content/post/static.md', 'w') as fp:
+with open('content/about/students.md', 'w') as fp:
     fp.write(html)

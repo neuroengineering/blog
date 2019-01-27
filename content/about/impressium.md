@@ -1,9 +1,10 @@
 +++
-date = "2000-01-01T12:00:00"
+date = "2019-01-26T12:00:00"
+menu = ""
 draft = false
 image = ""
 tags = ["imprint"]
-title = "Imprint"
+title = "Impressium (Imprint)"
 math = true
 summary = """
 """
