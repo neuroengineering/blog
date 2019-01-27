@@ -112,3 +112,23 @@ theme = "hugo-icarus-theme"
     categories = false
     tags = false
     tag_cloud = false
+    people = true
+
+
+[[students]]
+    image = "/img/student-list/Nikita Agarwal.jpg"
+    name = "Nikita Agarwal"
+    description = "I am interested in studying the underlying principles of cognitive processes and translating them into technology."
+
+    [[profiles]]
+        linkedin="https://www.linkedin.com/in/nikiita013/"
+        facebook="https://www.facebook.com/nikiita013"
+
+[[students]]
+    image = "/img/student-list/Nikita Agarwal.jpg"
+    name = "Nikita Agarwal"
+    description = "I am interested in studying the underlying principles of cognitive processes and translating them into technology."
+
+    [[profiles]]
+        linkedin="https://www.linkedin.com/in/nikiita013/"
+        facebook="https://www.facebook.com/nikiita013"

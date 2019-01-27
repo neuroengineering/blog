@@ -5,88 +5,28 @@ import os.path as osp
 
 head = u"""
 +++
-date = "2010-01-01T12:00:00"
-draft = false
-tags = ["events","tum"]
-title = "MSNE Students"
-menu = "main"
-math = true
+type = "people"
+layout="single"
+"""
+
+foot = u"""
+
 +++
-
-<style>
-
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
-    width:50%;
-    height: 350px;
-    max-width:200px;
-    margin: 10px 5px;
-    text-align: center;
-    background-color: #f5f5f5;
-    padding: 5px 5px 5px 5px;
-    float: left;
-}
-
-card.col1 {
-    float: left;
-    width: 20%;
-}
-card.col2 {
-    float: left;
-    width: 70%;
-}
-card.title {
-    font-size: 100pt;
-}
-
-a.link {
-    text-decoration: none;
-    font-size: 18px;
-}
-
-.image-cropper {
-    width: 100px;
-    height: 100px;
-    margin: 10px auto;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-}
-
-img {
-    display: inline;
-    margin-left: auto;
-    margin-right: auto;
-    height: 100%;
-    width: 100%;
-    margin: 0 auto;.
-    align: center;
-}
-
-.linklist {
-height:100%;
-}
-
-</style>
 """
 
 tmpl = u"""
-<div class="card">
-    <div class="image-cropper">
-    <img src="{file}" >
-    </div>
-    <p><b>{first} {last}</b>
-    </br>
-    {text}
-    </p>
-    <div id="linklist">
+[[students]]
+    image = "{file}"
+    name = "{first} {last}"
+    description = "{text}"
+
     {links}
-    </div>
-</div>
 """
 
-linktypes = [   'envelope',
-                'link',
+link_tmpl = '{key} = "{value}"'
+
+linktypes = [   'email',
+                'web',
                 'linkedin',
                 'github',
                 'twitter',
@@ -127,13 +67,13 @@ remap = {
     'First Name'           : 'first',
     'Last Name'            : 'last',
     'Description'          : 'text',
-    'E-Mail'               : 'envelope',
+    'E-Mail'               : 'email',
     'LinkedIn Profile URL' : 'linkedin',
     'Github Profile URL'   : 'github',
     'Twitter Profile URL'  : 'twitter',
     'Facebook Profile URL' : 'facebook',
     'Google Scholar URL'   : 'scholar',
-    'Website URL'          : 'link',
+    'Website URL'          : 'web',
     'File'                 : 'file'
 }
 
@@ -165,7 +105,6 @@ from math import isnan
 
 html = head
 
-link_tmpl = u"""<a href="{value}" class="link"><i class="fa fa-{key}"></i></a>"""
 
 for i in range(len(df)):
     
@@ -181,11 +120,13 @@ for i in range(len(df)):
             links.append(link_tmpl.format(key = l, value=d[l]))
             del(d[l])
             
-    d['links'] = '\n'.join(links)
+    d['links'] = '\n    '.join(links)
 
     html += tmpl.format(**d)
+
+html += foot
     
 from IPython.core.display import HTML
 
-with open('content/about/students.md', 'w') as fp:
+with open('content/people/index.md', 'w') as fp:
     fp.write(html)
