@@ -2,16 +2,23 @@ import pandas as pd
 
 import os
 import os.path as osp
+import datetime
 
 head = u"""
 +++
+title = "Students"
+date = "{}"
 type = "people"
 layout="single"
-"""
+menu="main"
+
+""".format(datetime.date.today().strftime("%Y-%m-%d"))
 
 foot = u"""
 
 +++
+
+This is a list of students enrolled in the MSNE program since program start in 2016.
 """
 
 tmpl = u"""

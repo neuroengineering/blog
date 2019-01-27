@@ -1,7 +1,11 @@
 
 +++
+title = "Students"
+date = "2019-01-27"
 type = "people"
 layout="single"
+menu="main"
+
 
 [[students]]
     image = "/img/student-list/Nikita Agarwal.jpg"
@@ -319,3 +323,5 @@ layout="single"
 
 
 +++
+
+This is a list of students enrolled in the MSNE program since program start in 2016.
