@@ -6,14 +6,23 @@ import datetime
 
 head = u"""
 +++
-title = "MSNE List of Students"
 date = "{}"
-type = "people"
-layout="single"
 menu=""
-banner="img/180419-coc-summit.jpeg"
 
 """.format(datetime.date.today().strftime("%Y-%m-%d"))
+
+head_list = u"""
+type = "people"
+title = "MSNE List of Students"
+banner="img/180419-coc-summit.jpeg"
+layout="single"
+"""
+
+head_personal = u"""
+title = "{first} {last}"
+banner=""
+layout="personal"
+"""
 
 foot = u"""
 
@@ -28,6 +37,7 @@ tmpl = u"""
     image = "{file}"
     name = "{first} {last}"
     description = "{text}"
+    page = "/people/~{page}/"
 
     {links}
 """
@@ -67,10 +77,9 @@ def match(names, files):
     return m
 
 df['File'] = match(names, files)
-
 df['E-Mail'] = 'mailto:' + df['E-Mail']
-
 df['first'] = df['First Name']
+df['page'] = df['First Name'].apply(lambda x : x.lower().encode('ascii', 'replace').decode().replace("?", "").replace(" ", "") )
 
 remap = {
     'First Name'           : 'first',
@@ -83,7 +92,8 @@ remap = {
     'Facebook Profile URL' : 'facebook',
     'Google Scholar URL'   : 'scholar',
     'Website URL'          : 'web',
-    'File'                 : 'file'
+    'File'                 : 'file',
+    'page' : 'page'
 }
 
 fillna = {
@@ -104,24 +114,17 @@ tgt = pd.DataFrame()
 df = df.fillna(value=fillna)
 
 for k, v in remap.items():
-    
     tgt[v] = df[k]
     
     
 tgt = tgt.sort_values('last').reset_index(drop=True)
 
 from math import isnan
-
 html = head
-
-
+html += head_list
 for i in range(len(df)):
-    
     my_dict = tgt.loc[i].to_dict()
-    
     d = {k: my_dict[k] for k in my_dict if not str(my_dict[k]) == '#'}
-    
-    #print(d)
     
     links = []
     for l in linktypes:
@@ -130,12 +133,36 @@ for i in range(len(df)):
             del(d[l])
             
     d['links'] = '\n    '.join(links)
-
     html += tmpl.format(**d)
-
 html += foot
     
-from IPython.core.display import HTML
-
-with open('content/people/index.md', 'w') as fp:
+with open('content/people/_index.md', 'w') as fp:
     fp.write(html)
+
+
+# Individual Profiles
+
+for i in range(len(df)):
+    html = head
+    my_dict = tgt.loc[i].to_dict()
+    d = {k: my_dict[k] for k in my_dict if not str(my_dict[k]) == '#'}
+    
+    html += head_personal.format(**d)
+    
+    name = "~{}/_index.md".format(d["page"])
+    name = os.path.join('content/people/', name)
+    os.makedirs(os.path.dirname(name), exist_ok = True)
+    print(name)
+    
+    links = []
+    for l in linktypes:
+        if l in d:
+            links.append(link_tmpl.format(key = l, value=d[l]))
+            del(d[l])
+            
+    d['links'] = '\n    '.join(links)
+    html += tmpl.format(**d)
+    html += foot
+    print(html)
+    with open(name, 'w') as fp:
+        fp.write(html)
