@@ -1,8 +1,8 @@
 +++
 date = "2018-11-16T18:00:00"
 draft = false
-tags = ["events"]
-title = "MSNE Research Internships"
+tags = ["research"]
+title = "MSNE Research Internships in Californa, Tübingen and Boston"
 math = true
 summary = """
 """
@@ -10,7 +10,7 @@ banner = "/img/181116-interns/pranshul.jpg"
 +++
 
 As a part of our Master's program, MSNE students explore labs outside of our programs in 6 to 8 week research internships.
-In this and a following series of posts, we collected stories of the experiences we made during our internships.
+In this and [a following series of posts](/tags/research/), we collected stories of the experiences we made during our internships.
 In our first post, Pranshul, Annika and Vanessa share their impressions from interning in California, Tübingen and Boston.
 
 ## Pranshul: UC Davis with Dr. Clifford Saron
@@ -20,6 +20,13 @@ I joined Dr. Clifford Saron’s lab at the University of California, Davis. It c
 I loved the fact that people were so devoted to the process of research rather than keeping an eye on the results the whole time. It helped me explore things and get involved in the process thoroughly. Alongside, I was exploring the U.S. culture, which itself is an amalgamation of various cultures. I learned a bit of Russian, and forgotten it quickly too. On my birthday, 17th of June, my housemates and I went to the lake Berryessa where I had my first taste of American beer. After a week, we packed our bags to adventure into Yosemite National Park, which is a must for any nature lover. While I was coming back to Munich, I met a guy in the train and engaged in a random discussion about my work. He got so interested that he invited me to his office in San Francisco and we converse for almost two hours. In general, I met interesting people and really enjoyed the warmth of people, though it got tricky at times when I found that it was only limited to the words. As it always does, now my understanding of the world is grounded with more diversity.
 
 I presented my work at Transforming Education Conference for Humanity (TECH),  UNESCO Mahatma Gandhi Institute of Education for Peace and Sustainable Development.
+
+
+<div class="chip">
+<img src="/img/student-list/Pranshul_msne-min - Pranshul Saini.png" width="96" height="96">Pranshul Saini</div>
+<br/>
+
+---
 
 ## Annika: MPI for Intelligent Systems with Dr. Moritz Große-Wentrup
 
@@ -36,8 +43,13 @@ This is how my summer internship at the MPI in Tübingen started. I arrived ther
 
 I am very grateful that I could work for nine weeks in this environment. I did not only get to know the field of Neurorehabilitation from the side of electrical stimulation for stroke patients. To give some examples, I also learned about applications for patients with amyotrophic lateral sclerosis, which aim to a better understanding of the disease in order to find a way for them to communicate even if they get completely paralyzed in the end, or about robot prostheses for replacing functionality instead of restoring. Moreover, it was very easy to get into contact with other people from the Empirical Inference Department, giving me even more input about other fields of research. This large benefit I could draw from the diversity of the group and institution completely pushed the stressful moments that always accompany the last days of a project in the background.
 
-
 All in all, I think you already can imagine that I am very happy to have had this opportunity. Therefore, I want to close this with a big Thank You to all the people that made those nine weeks such a profitable experience.
+
+<div class="chip">
+<img src="/img/student-list/Thierfelder_Annika_Profile - Annika Thierfelder.jpg" width="96" height="96">Annika Thierfelder</div>
+<br/>
+
+---
 
 ## Vanessa: Massachusetts Institute of Technology with Dr. Kay Tye
 
@@ -52,3 +64,7 @@ I learned lab techniques such as stereotaxic surgery with viral injections and i
 <!------------ ![A mouse with a headcap to protect his implant which included a headbar, electrophysiology recording electrode, optic fiber, and microdialysis probe.](/img/181116-interns/vanessa-2.png) --->
  
 Lastly, I presented my project in a poster at the Bernstein Conference in Berlin.
+
+<div class="chip">
+<img src="/img/student-list/800x800 headshot - Vanessa Page.jpg" width="96" height="96">Vanessa Page</div>
+<br/>
