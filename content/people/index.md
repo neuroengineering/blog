@@ -1,7 +1,7 @@
 
 +++
 title = "MSNE List of Students"
-date = "2019-01-27"
+date = "2019-03-10"
 type = "people"
 layout="single"
 menu=""
@@ -35,6 +35,15 @@ banner="img/180419-coc-summit.jpeg"
     email = "mailto:iustinaabc@gmail.com"
     linkedin = "https://www.linkedin.com/in/iustina-andronic-928928bb/"
     facebook = "https://www.facebook.com/iustina.andronic"
+
+[[students]]
+    image = "/img/student-list/Mohamad_Atayi.jpg"
+    name = "Mohamad Atayi"
+    description = "Brain-Computer interfaces, Deep learning and Deep generative models"
+
+    email = "mailto:bmeatayi@gmail.com"
+    linkedin = "https://www.linkedin.com/in/mohamad-atayi/"
+    github = "https://github.com/bmeatayi"
 
 [[students]]
     image = "/img/student-list/profile - Mohammad Bashiri.JPG"
@@ -143,9 +152,17 @@ banner="img/180419-coc-summit.jpeg"
     
 
 [[students]]
+    image = "/img/student-list/Tetiana_Klymenko.jpg"
+    name = "Tetiana Klymenko"
+    description = "I an interested in applying AI methods to analyse brain recordings"
+
+    email = "mailto:tetiana.klyemnko.jl@gmail.com"
+    facebook = "https://www.facebook.com/profile.php?id=100009192547842"
+
+[[students]]
     image = "/img/student-list/Kotkat.png"
     name = "Ann Kotkat"
-    description = "Interested in Visual systems (biological and artificial), Neuroprosthetics, Brain Computer Interfaces and neuromorphic computing."
+    description = "Interested in Visual systems (biological and artificial), Neuroprosthetics and Brain Computer Interface. Additionally I am curious about neuromorphic computing."
 
     email = "mailto:ann.kotkat@gmail.com"
 
@@ -157,6 +174,16 @@ banner="img/180419-coc-summit.jpeg"
     email = "mailto:nogay.kuepelioglu@tum.de"
     linkedin = "https://www.linkedin.com/in/nogay-k%C3%BCpelio%C4%9Flu-929a4315b/"
     facebook = "https://www.facebook.com/profile.php?id=100021767552483"
+
+[[students]]
+    image = "/img/student-list/Janne_Lappalainen.jpg"
+    name = "Janne Lappalainen"
+    description = "As a physicist I am interested in principled theoretical mechanisms in the brain. Focus: Computational Neuroscience, Deep Learning"
+
+    email = "mailto:janne.lappalainen@tum.de"
+    linkedin = "www.linkedin.com/in/lappalainenjk"
+    github = "https://github.com/jkoal"
+    twitter = "https://twitter.com/lappalainenjk"
 
 [[students]]
     image = "/img/student-list/Profile - James Lawton.jpg"
@@ -249,7 +276,7 @@ banner="img/180419-coc-summit.jpeg"
 [[students]]
     image = "/img/student-list/Lucas_Stoffl.jpg"
     name = "Lucas Stoffl"
-    description = "I'm especially interested in the areas of artificial intelligence, deep learning and computational neuroscience."
+    description = "I'm especially interested in the areas of artificial intelligence, deep learning, computational neuroscience and classical neuroscience."
 
     email = "mailto:lucas.stoffl@tum.de"
 
@@ -307,11 +334,21 @@ banner="img/180419-coc-summit.jpeg"
 [[students]]
     image = "/img/student-list/yagmur yener pp.jpg"
     name = "Yagmur Yener"
-    description = "Getting inspiration from neuroscience for deep learning applications. Using deep learning for cracking the code of the brain."
+    description = "Getting inspiration from neuroscience for deep learning applications. Using deep learning for cracking the code of the brain. "
 
     email = "mailto:yagmur.yener.yy@gmail.com"
     linkedin = "https://www.linkedin.com/in/ya%C4%9Fmur-yener-9163a089/"
     facebook = "https://www.facebook.com/yagmur.yener.562"
+
+[[students]]
+    image = "/img/student-list/Syed_Suleman_Abbas_Zaidi.jpg"
+    name = "Syed Suleman Abbas  Zaidi"
+    description = "I am primarily interested in applying Machine Learning to Neuroscience. My current focus lies in understanding the primate visual system"
+
+    email = "mailto:suleman.zaidi@tum.de"
+    linkedin = "https://www.linkedin.com/in/ssaz-5/"
+    twitter = "https://twitter.com/ssaz_5"
+    scholar = "https://scholar.google.com/citations?user=MVrvZ4gAAAAJ&hl=en"
 
 [[students]]
     image = "/img/student-list/WhatsApp Image 2018-07-12 at 6.18.19 PM - Francisco Zurita.jpeg"
