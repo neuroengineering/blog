@@ -26,19 +26,17 @@ oder „Verantwortlicher" verweisen wir auf die Definitionen im Art. 4 der
 Datenschutzgrundverordnung (DSGVO).\
 \
 
-### Verantwortlicher {#dsg-general-controller}
+### Verantwortliche {#dsg-general-controller}
 
-[Vorname, Name / Firma\
-Straße Hausnr.\
-PLZ Ort\
-Land\
-\
-E-Mailadrdddsse: adadf\
-Geschäftsführer/ Inhaber: Vorname/n, Namen/n (sofern vorhanden)\
-Link zum Impressum: http://....de\
-\
-Kontakt Datenschutzbeauftragte/r: ....@....de (sofern
-vorhanden)]{.tsmcontroller}
+Stellvertretend für die Studierende des M.Sc. Neuroengineering
+(*es handelt sich um ein Studierendenprojekt ohne direkte Zugehörigkeit zur TU München*)
+
+Steffen Schneider, Nicolas Berberich</br>
+Mitterweg 21</br>
+85478 Garching</br>
+
+E-Mail: [steffen.schneider@tum.de](mailto:steffen.schneider@tum.de)</br>
+Link zum Impressum: [neuroengineering.blog/about/impressium](/about/impressium)
 
 ### Arten der verarbeiteten Daten {#dsg-general-datatype}
 

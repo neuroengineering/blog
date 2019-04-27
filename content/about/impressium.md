@@ -11,12 +11,15 @@ summary = """
 banner = ""
 +++
 
-Steffen Schneider, Nicolas Berberich</br>
-Technische Universität München</br>
-Arcisstraße 21</br>
-80333 München</br>
+Stellvertretend für die Studierende des M.Sc. Neuroengineering
+(*es handelt sich um ein Studierendenprojekt ohne direkte Zugehörigkeit zur TU München*)
 
-[steffen.schneider@tum.de](mailto:steffen.schneider@tum.de)
+Steffen Schneider, Nicolas Berberich</br>
+Mitterweg 21</br>
+85478 Garching</br>
+
+Admin: [steffen.schneider@tum.de](mailto:steffen.schneider@tum.de)</br>
+Link zur Datenschutzerklärung: [neuroengineering.blog/about/datenschutz](/about/datenschutz)
 
 Angaben gemäß § 5 TMG.
 
