@@ -1,6 +1,9 @@
 studentlist:
 	python3 build_studentlist.py
 
+projects:	
+	python3 build_projects.py
+
 clean:
 	rm -rf public/*
 
@@ -18,4 +21,8 @@ push:
 	git commit -m "Automatic repo commit"
 	git push origin master
 
-all: page publish push
+serve: gen
+	hugo serve
+
+gen: studentlist projects
+all: gen page publish push
