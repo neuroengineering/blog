@@ -24,5 +24,8 @@ push:
 serve: gen
 	hugo serve
 
+cname:
+	echo neuroengineering.blog > public/CNAME
+
 gen: studentlist projects
-all: gen page publish push
+all: cname gen page publish push
