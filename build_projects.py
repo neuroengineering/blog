@@ -68,20 +68,29 @@ Besides their final thesis project, MSNE students spend 15 weeks on additional t
 """
 
 fmt = """\
-- **{project}** </br>
-{first} {last}, {supervisor}</br>
-[{affiliation}]({laburl})</br>
-{description}</br>
-*{puburl}{codeurl}Time scope: {type}, beginning on {start:%B %d, %Y}*
+- **{project}**
+  {first} {last}, {supervisor}
+  [{affiliation}]({laburl})
+  {description}
+  {puburl}
+  {codeurl}
+  *Time scope: {type}, beginning on {start:%B %d, %Y}*
 """
 
 remap_keys = {
     "project" : lambda x: x.strip(),
     "supervisor" : lambda x : ", ".join(reversed(x.split("\n"))),
     "puburl" :  "Publication: {}</br>".format,
-    "codeurl" : "Code: {}</br>".format,
+    "codeurl" : "Code: {}".format,
     "start" : lambda x : pd.to_datetime(x, dayfirst=True, format='%d.%m.%Y').date()
 }
+
+def generate_markdown(inp):
+    
+    md = fmt.format(**inp.to_dict())
+    md = '\n'.join(map(lambda x: x+"{{< break >}}", filter(lambda x : len(x.strip()), md.split('\n'))))
+    print(md)
+    return md
 
 if __name__ == "__main__":
 
@@ -95,7 +104,7 @@ if __name__ == "__main__":
     df = df.fillna("")
     df = df.sort_values("start")
 
-    md = header + "\n\n".join(df.T.apply(lambda x : fmt.format(**x.to_dict())))
+    md = header + "\n\n".join(df.T.apply(generate_markdown))
     with open("content/about/research.md", "w") as fp:
         fp.write(md)
     

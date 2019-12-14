@@ -52,7 +52,7 @@ names = ['{}'.format(j) for i,j in df[['First Name', 'Last Name']].values]
 
 def normalize(s):
     
-    return s.lower().replace('í', 'i')
+    return s.lower().replace('í', 'i').replace(" ", "")
 
 def match(names, files):
     m = []
