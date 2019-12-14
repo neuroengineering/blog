@@ -11,25 +11,32 @@ banner = "/img/hbp-entrepreneurship/ChristophExplaining.jpg"
 
 ## Retreats
 
+MSNE retreats are open to all students enrolled in the program and funded by the TU Munich and Elitenetzwerk Bayern.
+
 - [1st MSNE Retreat 2017](/2017/05/14/spring-2017-msne-retreat/). Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 
 - [2nd MSNE Retreat 2018](/2018/06/01/2nd-msne-retreat/). Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler
 - *Soon: 3rd MSNE Retreat 2019*
+- *Soon: 4th MSNE Retreat 2020*
 
 ## Conference Visits
 
 ### 2019
 - Computational and Systems Neuroscience 2019 ([cosyne.org](http://www.cosyne.org/c/index.php?title=Cosyne_19))
+- 2019 IEEE International Conference on Cyborg and Bionic Systems ([CBS](http://cbs2019.com))
+- [1st MBT Workhop on mobile EEG, Belgrade](/2019/06/05/1st-mbt-workshop-on-mobile-eeg-in-belgrade/)
+- 14th Bernstein Conference Berlin
+- Interdisciplinary College 2019
 
 ### 2018
-- [13th Bernstein Conference Göttingen](/2017/07/14/13th-bernstein-conference-g%C3%B6ttingen/)
 - [2nd HBP Student Conference](2nd-hbp-student-conference-transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/)
-- [Interdisciplinary College](http://localhost:1313/2018/03/13/interdisciplinary-college-2018/)
+- [Interdisciplinary College 2018](/2018/03/13/interdisciplinary-college-2018/)
 - [CoC Neuroengineering Workshop Munich](/2018/04/19/coc-neuro-engineering-networking-workshop/)
 - [Conference on Clinical Neurotechnologies and Healthy Aging](/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/)
 - Neuroscience 2018, San Diego ([sfn.org](https://www.sfn.org/Meetings/Neuroscience-2018))
 - Thirty-second Conference on Neural Information Processing Systems ([neurips.cc](https://neurips.cc/Conferences/2018))
 
 ### 2017
+- [13th Bernstein Conference Göttingen](/2017/07/14/13th-bernstein-conference-g%C3%B6ttingen/)
 - [1st HBP Student Conference](2017/02/10/1st-human-brain-project-student-conference-in-vienna/)
 
 ## Events (Co-) Organized by MSNE Students
