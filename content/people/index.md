@@ -1,7 +1,7 @@
 
 +++
 title = "MSNE List of Students"
-date = "2019-12-14"
+date = "2019-12-15"
 type = "people"
 layout="single"
 menu=""
