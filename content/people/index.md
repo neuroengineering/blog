@@ -1,7 +1,7 @@
 
 +++
 title = "MSNE List of Students"
-date = "2019-04-27"
+date = "2019-12-14"
 type = "people"
 layout="single"
 menu=""
@@ -75,6 +75,14 @@ banner="img/180419-coc-summit.jpeg"
     linkedin = "https://www.linkedin.com/in/jonas-braun-862427168/"
 
 [[students]]
+    image = "/img/student-list/EricCeballosDominguez.jpg"
+    name = "Eric Ceballos Dominguez"
+    description = "Currently interested in neural information processing research for applications like affective BCIs and affective computing in general."
+
+    email = "mailto:eric.cebdom@gmail.com"
+    github = "https://github.com/eric2302"
+
+[[students]]
     image = "/img/student-list/CarloDeDonno - Carlo De Donno.jpg"
     name = "Carlo De Donno"
     description = "Data analysis at Sirotalab. Hoping to bring systems neuroscience and BCI research closer together in the future."
@@ -125,6 +133,14 @@ banner="img/180419-coc-summit.jpeg"
     linkedin = "https://www.linkedin.com/in/elvin-hajizada/"
     github = "https://github.com/elvinhajizada"
     facebook = "https://www.facebook.com/elvin.hacizade.39"
+
+[[students]]
+    image = "/img/student-list/Held.png"
+    name = "Lisa Held"
+    description = "Cognition, Computational Neuroscience, Neuroprosthetics"
+
+    email = "mailto:lisa.held@tum.com"
+    linkedin = "https://www.linkedin.com/in/lisa-held/"
 
 [[students]]
     image = "/img/student-list/isabelle_hoxha.jpg"
@@ -210,12 +226,28 @@ banner="img/180419-coc-summit.jpeg"
     facebook = "https://www.facebook.com/elio.nakhle"
 
 [[students]]
+    image = "/img/student-list/Ochoa de Eribe Delgado.png"
+    name = "Pablo Ochoa de Eribe Delgado"
+    description = "I am keen on using neurobotics to fight diseases and BCI for therapy"
+
+    
+
+[[students]]
     image = "/img/student-list/800x800 headshot - Vanessa Page.jpg"
     name = "Vanessa Page"
     description = "Systems neuroscience including optogenetics and in-vivo electrophysiology to find mechanistic explanations for emotional processing. "
 
     email = "mailto:vanessapage@me.com"
     linkedin = "https://www.linkedin.com/in/vanessa-page-90b9a3ba/"
+
+[[students]]
+    image = "/img/student-list/Matthijs	Pals.jpg"
+    name = "Matthijs Pals"
+    description = "I am mostly interested in Computational Neuroscience and Neuromorphic Computing"
+
+    email = "mailto:matthijs-pals@hotmail.com"
+    linkedin = "https://www.linkedin.com/in/matthijs-pals-02a3b9164/"
+    facebook = "https://www.facebook.com/matthijs.pals.1?ref=bookmarks"
 
 [[students]]
     image = "/img/student-list/me end - Elisa Pavarino.jpg"
@@ -266,6 +298,14 @@ banner="img/180419-coc-summit.jpeg"
     linkedin = "https://www.linkedin.com/in/auguste-schulz-b5a57a168/"
 
 [[students]]
+    image = "/img/student-list/Florian Schönleitner.jpg"
+    name = "Florian  Schönleitner"
+    description = "Brain-Computer interfaces, mobile EEG, ErrPs, Motor-Imagery, adaptive Classification "
+
+    email = "mailto:SchoenleitnerFlorian@web.de"
+    linkedin = "https://www.linkedin.com/in/florian-sch%C3%B6nleitner-34201210a/"
+
+[[students]]
     image = "/img/student-list/Lisa_Sogerer.jpg"
     name = "Lisa Sogerer"
     description = "Especially interested in brain signal processing, neurorecording methods and treatment of neuropsychiatric diseases."
@@ -313,6 +353,14 @@ banner="img/180419-coc-summit.jpeg"
 
     email = "mailto:mel.tschiersch@gmail.com"
     facebook = "https://www.facebook.com/melanie.tschiersch"
+
+[[students]]
+    image = "/img/student-list/Varona.png"
+    name = "Jesus Andres Varona"
+    description = "I'm interested in Neuroprosthetics and degenerative diseases"
+
+    email = "mailto:ing.biomed.varona@gmail.com"
+    linkedin = "https://www.linkedin.com/in/jesús-andrés-varona-camacho-250317170"
 
 [[students]]
     image = "/img/student-list/Anna_Vasilevskaya.jpg"

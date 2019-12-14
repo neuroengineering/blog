@@ -28,8 +28,8 @@ So, why am I even interested in entrepreneurship? I noticed that many applicatio
 
 One of the most important aspects you can do to benefit your career is networking, whether you aspire to be a researcher or entrepreneur. Our master's program certainly provides the opportunities to expand your contacts, branch out, and establish these networks for your future career and research aspirations. After all, you never know who you may run into to help you start a business, or whether this person is on the jury of the big grant proposal you are vying for. I think these moments are called serendipity.
 
-
-*James Lawton*
-
 *Photo credits of the HBP-marked photos belong to the HBP Education Programme*
+
+{{< chip "Profile - James Lawton.jpg" "James Lawton" >}}
+
 

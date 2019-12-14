@@ -30,8 +30,4 @@ One remarkable part of the conference was a special interactive art experience c
 
 ![](/img/180928-bernstein/vanessa-poster.jpg)
 
-<div class="chip">
-<img src="/img/student-list/800x800 headshot - Vanessa Page.jpg" width="96" height="96">Vanessa Page</div>
-<br/>
-
-
+{{< chip "800x800 headshot - Vanessa Page.jpg" "Vanessa Page" >}}

@@ -14,3 +14,5 @@ On Dec. 9th we met with the MSNE program manager, Florian Rattei, at one of the 
 The medival-themed market with its many craftsmen and -women including a glassblower, a goldsmith and calligraphers as well as the authentic wooden stalls immediately makes one forget the stressful daily routine and emits a traditional Christmassy atmosphere. 
 
 Standing around a stump that served as a table for our Glühwein cups, we also talked about organisational matters and planned activities like the writing of this blog. 
+
+{{< chip "portrait - Nicolas Berberich.jpg" "Nicolas Berberich" >}}

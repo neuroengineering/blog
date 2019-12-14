@@ -1,6 +1,6 @@
 +++
 date = "2017-06-12T12:00:00"
-draft = true
+draft = true 
 image = ""
 tags = ["events"]
 title = "4th HBP Summer School" 
@@ -14,8 +14,6 @@ banner = "/img/hbp-summer-school/view.jpg"
 The 4th HBP Summer School took place from June 12 to June 18 at the Obergurgl University Center in Austria.
 The diverse program includes introductions to High Performance Computin, Principles of Brain Computation,
 workshop sessions and programming tutorials as well as student talks and poster presentations.
-
-In this blog posts, the key points of the individual program points will be highlighted.
 
 ## High Performance Computing
 
@@ -145,6 +143,7 @@ David Lester, Alan Stokes, Oliver Rhodes, University of Manchester
 ![Each of the over 50 attendees had a three minutes timeslots for presenting recent work](/img/hbp-summer-school/presentation.jpg)
 
 *Steffen Schneider*
+
 
 
 ## References

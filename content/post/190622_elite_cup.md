@@ -93,6 +93,5 @@ Finally, we would like to thank the organizers
 "Honors-Wirtschaftswissenschaften" for such a wonderful event, and the
 TUM for covering the transportation costs for us.
 
-<div class="chip">
-<img src="/img/student-list/WhatsApp Image 2018-07-12 at 6.18.19 PM - Francisco Zurita.jpeg" width="96" height="96">Francisco Zurita</div>
-<br/>
+
+{{< chip "Francisco Zurita.jpeg" "Francisco Zurita" >}}

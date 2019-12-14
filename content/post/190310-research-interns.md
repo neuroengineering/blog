@@ -63,9 +63,7 @@ for his great supervision of my research project at the University of
 Manchester, as well as all responsible people of the MSNE program which
 made this unforgettable experience possible!
 
-<div class="chip">
-<img src="/img/student-list/Lucas_Stoffl.jpg" width="96" height="96">Lucas Stoffl</div>
-<br/>
+{{< chip Lucas_Stoffl.jpg  Lucas Stoffl >}}
 
 ---
 
@@ -114,6 +112,4 @@ wherever I looked and are most certain that I will have to come back
 soon to make use both of the great research community in the US and to
 explore more of the countries' beautiful Natural Parks.
 
-<div class="chip">
-<img src="/img/student-list/Picture_MSNE_JonasBraun_180714 - Jonas Braun.jpg" width="96" height="96">Jonas Braun</div>
-<br/>
+{{< chip "Picture_MSNE_JonasBraun_180714 - Jonas Braun.jpg" "Jonas Braun" >}}

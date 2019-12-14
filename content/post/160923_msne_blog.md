@@ -18,3 +18,5 @@ This blog serves two purposes:
 
 
 Disclaimer: This is a personal blog by the students in the Neuroengineering program and not an official website by TUM. For official information please refer to [the official MSNE homepage](https://www.msne.ei.tum.de/en/home/).
+
+{{< chip "portrait - Nicolas Berberich.jpg" "Nicolas Berberich" >}}

@@ -9,8 +9,6 @@ summary = """
 banner = "/img/msne-munich-brain-course.jpeg"
 +++
 
-
-
 After a semester of interesting theoretical lectures in neuroanatomy and neurophysiology we had the chance of gaining practical hands-on experience about the human brain in the [Munich Brain Course](https://www.intensivkurs-neuroanatomie.de/). 
 
 
@@ -37,4 +35,4 @@ The event was also a great opportunity for our batch to get together after not s
 
 Our attendence was organized and paid for by the MSNE program and the ENB, so we'd like to thank them and the organizers of the Munich Brain Course for the very informative two days. 
 
-*Nicolas Berberich*
+{{< chip "portrait - Nicolas Berberich.jpg" "Nicolas Berberich" >}}

@@ -105,4 +105,4 @@ That being said, I am looking forward to further interdisciplinary conferences o
 We thank the organizers for providing a Travel Grant.
 
 
-*Written by Steffen Schneider*
+{{< chip "profile-sq-800px - Steffen Schneider.jpg" "Steffen Schneider" >}}

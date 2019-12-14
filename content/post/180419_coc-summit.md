@@ -53,3 +53,6 @@ Poster Session
 The Effect of Non-invasive Deep Brain Stimulation Using Temporal Interference: A Computational Study
 - Asahqar A, Sirota A, Schwesig G</br>
 Slow Oscillation Detection in Rat's Entorhinal Cortex
+
+
+{{< chip "profile-sq-800px - Steffen Schneider.jpg" "Steffen Schneider" >}}

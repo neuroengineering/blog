@@ -18,6 +18,4 @@ In this opportunity we thanked him and his PhD student and teaching assistant Al
 
 We wish him the very best in his future endeavors!
 
-<div class="chip">
-<img src="/img/student-list/WhatsApp Image 2018-07-12 at 6.18.19 PM - Francisco Zurita.jpeg" width="96" height="96">Francisco Zurita</div>
-<br/>
+{{< chip "Francisco Zurita.jpeg" "Francisco Zurita">}}

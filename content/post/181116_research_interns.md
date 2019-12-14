@@ -22,9 +22,7 @@ I loved the fact that people were so devoted to the process of research rather t
 I presented my work at Transforming Education Conference for Humanity (TECH),  UNESCO Mahatma Gandhi Institute of Education for Peace and Sustainable Development.
 
 
-<div class="chip">
-<img src="/img/student-list/Pranshul_msne-min - Pranshul Saini.png" width="96" height="96">Pranshul Saini</div>
-<br/>
+{{< chip "Pranshul_msne-min - Pranshul Saini.png" "Pranshul Saini" >}}
 
 ---
 
@@ -45,9 +43,7 @@ I am very grateful that I could work for nine weeks in this environment. I did n
 
 All in all, I think you already can imagine that I am very happy to have had this opportunity. Therefore, I want to close this with a big Thank You to all the people that made those nine weeks such a profitable experience.
 
-<div class="chip">
-<img src="/img/student-list/Thierfelder_Annika_Profile - Annika Thierfelder.jpg" width="96" height="96">Annika Thierfelder</div>
-<br/>
+{{< chip "Thierfelder_Annika_Profile - Annika Thierfelder.jpg" "Annika Thierfelder" >}}
 
 ---
 
@@ -65,6 +61,4 @@ I learned lab techniques such as stereotaxic surgery with viral injections and i
  
 Lastly, I presented my project in a poster at the Bernstein Conference in Berlin.
 
-<div class="chip">
-<img src="/img/student-list/800x800 headshot - Vanessa Page.jpg" width="96" height="96">Vanessa Page</div>
-<br/>
+{{< chip "800x800 headshot - Vanessa Page.jpg" "Vanessa Page" >}}

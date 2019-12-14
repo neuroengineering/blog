@@ -39,9 +39,7 @@ It was especially nice to see how well the first semester in the Neuroengineerin
 We would like to thank the MSNE program and the ENB for their support which made this great experience possible. 
 
 
-
-
-*Nicolas Berberich*
+{{< chip "portrait - Nicolas Berberich.jpg" "Nicolas Berberich" >}}
 
 *Photo credits of the HBP-marked photos belong to the HBP Education Programme*
 

@@ -27,3 +27,6 @@ organized by the [Bernstein Center for Computational Neuroscience Göttingen (BC
 [Simple mathematical model of delay eyeblink conditioning in the cerebellum](https://doi.org/10.12751/nncn.bc2017.0148). Bernstein Conference 2017. doi: 10.12751/nncn.bc2017.0148
 - Schneider S, Supratak A, Li L, Guo Y (2017)</br>
 [Fully Convolutional Signal Transcription for Artifact Removal and Normalization](https://doi.org/10.12751/nncn.bc2017.0135). Bernstein Conference 2017. doi: 10.12751/nncn.bc2017.0135
+
+{{< chip "profile-sq-800px - Steffen Schneider.jpg" "Steffen Schneider" >}}
+

@@ -15,4 +15,4 @@ The focus lay on brain stimulation which could even be tested during the coffee 
 
 On the last day the [MedTech Startup School](https://www.startupschool-tuebingen.com/) offered an Open Innovation Day where we discussed several aspects of founding a Neuro-Tech start-up. The 100 day programme they offer to go forward with one's idea might become quite important for some of us in the future.
 
-<div class="chip"><img src="/img/student-list/Auguste_Schulz - Auguste Schulz.jpg" width="96" height="96">Auguste Schulz</div><br/>
+{{< chip "Auguste_Schulz - Auguste Schulz.jpg" "Auguste Schulz" >}}

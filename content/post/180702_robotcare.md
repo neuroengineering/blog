@@ -36,4 +36,4 @@ It was a fantastic event with high attendance from seniors, care personnel, and 
 *Prof. Maasen in discussion with the audience*
 
 
-<div class="chip"><img src="/img/student-list/portrait - Nicolas Berberich.jpg" width="96" height="96">Nicolas Berberich</div><br/>
+{{< chip "portrait - Nicolas Berberich.jpg" "Nicolas Berberich" >}}

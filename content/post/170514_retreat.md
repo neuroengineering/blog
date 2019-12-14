@@ -70,4 +70,4 @@ In my personal experience, I would definitely recommend such events when you are
 
 And the story goes on….
 
-*Pranshul Saini*
+{{< chip "Pranshul_msne-min - Pranshul Saini.png" "Pranshul Saini" >}}

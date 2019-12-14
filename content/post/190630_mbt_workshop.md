@@ -17,4 +17,6 @@ After the two-day workshop we are back in Munich with a lot of new insights abou
 
 Additional photos of the event are available on [Flickr](https://www.flickr.com/photos/184874381@N07/albums).
 
-*Written by Florian Schönleitner and Mert Keser*
+{{< chip "Florian Schönleitner.jpg" "Florian Schönleiter">}}
+
+{{< chip "Mert_Keser.png" "Mert Keser">}}

@@ -50,4 +50,4 @@ Afterwards we spent some time relaxing, watching the other matches and having fr
 
 We would like to thank the organizers, and the sponsors of the lunch.
 
-*Francisco Zurita*
+{{< chip "Francisco Zurita.jpeg" "Francisco Zurita" >}}

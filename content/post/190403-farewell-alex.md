@@ -19,6 +19,4 @@ Unfortunately for us, like any PhD student, he comes to an end with his PhD proj
 We didn't want him to leave without a proper goodbye, so we organized a farewell party, where we enjoyed the evening talking about Neuroscience and plans for the future.
 In the name of all MSNE students I want to wish Alex all the best in his future career and thank him for his support during our studies.
 
-<div class="chip">
-<img src="/img/student-list/Viktorija - viktorija dimova.jpg" width="96" height="96">Viktorija Dimova</div>
-<br/>
+{{< chip "Viktorija - viktorija dimova.jpg" "Viktorija Dimova" >}}

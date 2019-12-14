@@ -14,6 +14,4 @@ The MSNE Neuruns teams participated in the [TUM Campus Run 2019](https://www.ja.
 Thanks a lot to the organization team of this event, which gets better every year!
 
 
-<div class="chip">
-<img src="/img/student-list/WhatsApp Image 2018-07-12 at 6.18.19 PM - Francisco Zurita.jpeg" width="96" height="96">Francisco Zurita</div>
-<br/>
+{{< chip "Francisco Zurita.jpeg" "Francisco Zurita">}}

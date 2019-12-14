@@ -196,4 +196,6 @@ We would like to say thanks to our friends Annika Thierfelder, Francisco Zurita 
 They did a wonderful job coordinating people, and invested a lot of time to make this experience unique. This wonderful occasion allowed for the two batches of neuroengineering students  to get to know each other better, as well as getting involved with the invited guests, maximizing our learning, teamwork and fun.
 We wish to express all our gratitude! You made this unforgettable experience possible!
 
-*written by Viktorija, Mohammad and Germán*
+{{< chip "Viktorija - viktorija dimova.jpg" "Viktorija Dimova" >}}
+{{< chip "profile - Mohammad Bashiri.JPG" "Mohammad Bashiri" >}}
+{{< chip "IMG_20180713_150100_466~3 - german diez valencia.jpg" "German Diez Valencia" >}}
