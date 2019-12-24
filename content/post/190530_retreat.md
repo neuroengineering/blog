@@ -176,6 +176,6 @@ organizers ... try to beat this!
 
 Masha and Laura
 
-{{< chip "Profile - Mariia Popova-cropped.jpg "Masha Popova">}}
+{{< chip "Profile - Mariia Popova-cropped.jpg" "Masha Popova">}}
 
 {{< chip "Laura.png" "Laura">}}
