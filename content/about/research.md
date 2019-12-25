@@ -13,7 +13,8 @@ banner = "/img/hbp-entrepreneurship/ChristophExplaining.jpg"
 
 - [1st MSNE Retreat 2017](/2017/05/14/spring-2017-msne-retreat/). Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 
 - [2nd MSNE Retreat 2018](/2018/06/01/2nd-msne-retreat/). Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler
-- *Soon: 3rd MSNE Retreat 2019*
+- [3rd MSNE Retreat 2019](/2019/05/30/3rd-msne-retreat/). Invited Speakers: Nora Heinzelmann, Tobias Reichenbach, Albert Compte, Emily King
+- *Soon: 4th MSNE Retreat 2020*
 
 ## Conference Visits
 

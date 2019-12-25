@@ -13,8 +13,8 @@ page:
 publish:
 	
 	cd public && git add --all
-	cd public && git commit -m "Automatic page build"
-	cd public && git push origin master
+	cd public && git commit -m "Automatic page build" || echo "No changes to page, skipping main repository"
+	cd public && git push -f origin master
 
 push:
 	git add .

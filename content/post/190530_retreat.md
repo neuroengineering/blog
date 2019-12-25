@@ -2,19 +2,19 @@
 date = "2019-05-30T5:00:00"
 draft = false
 tags = ["social"]
-title = "MSNE Retreat 2019" 
+title = "3rd MSNE Retreat" 
 math = true
 summary = """
 """
 banner = "/img/190530-retreat/image8.jpeg"
 +++
 
-The **third MSNE retreat** started on 30^th^ of May - in a very
+The **third MSNE retreat** started on 30th of May - in a very
 picturesque village called Brixlegg in Tyrol, Austria - and of course it
 couldn't start without adventures from the beginning. We'll try to share
 with you the amazing neuro-weekend we spent together.
 
-***First day***
+## First day
 
 First thing we remember is how Aleks, Nogay, Tanya and our awesome
 organizers (Mel, Fulvia and Adrià) were trying to take all the cookies
@@ -34,8 +34,7 @@ driver, this wasn't the case.
 ![Retreat organizers, from left to right: Mel, Adrià and Fulvia](/img/190530-retreat/image1.png)
 
 After everyone had found the best buddies to live with, all of us
-gathered in the main 'seminar' room to listen to the talk by **Prof.
-Emily King** from Bremen University on 'Low complexity models in Data
+gathered in the main 'seminar' room to listen to the talk by [**Prof. Emily King**](https://www.math.colostate.edu/~king/index.html) from Bremen University on 'Low complexity models in Data
 Analysis and Machine Learning'. This was extremely lively and
 interesting. We were talking about mathematical basis used in data
 compression, and Prof. King convinced us to never use .jpeg again.
@@ -64,10 +63,10 @@ out with a few beers and continue discussing about equality,
 neuroscience and life. Others - intelligent ones - decided to go to bed
 after understanding that everything was just about to begin.
 
-***Second day***
+## Second day
 
 Having everyone surprisingly on time for breakfast, we started the
-second day with a talk given by **Dr. Nora Heinzelmann** on
+second day with a talk given by [**Dr. Nora Heinzelmann**](https://www.cvbers.com/nora-heinzelmann) on
 'Neurophilosophy of Aesthetics and Moral Decisions'. As many of us were
 not very familiar with the questions of philosophy we were happy to
 start with very basic concepts and approaches in the field which Dr.
@@ -86,14 +85,14 @@ ice-cream reward when we got there was amazing. And the views were too,
 of course!
 
 
-![First day hikers and ice-cream reward!](/img/190530-retreat/image3.png)
+![First day hikers and ice-cream reward!](/img/190530-retreat/image6.png)
 
 To make this day even more amazing (which was almost impossible), there
 was a barbecue night right after that. We should give our credits to the
 people responsible for the great dinner and also the after-dinner music
 improvised performance, everything was perfect.
 
-![Barbeque proof and cookers and music outdoors performance](/img/190530-retreat/image4.png)
+![Barbeque proof and cookers and music outdoors performance](/img/190530-retreat/image3.png)
 
 If you thought the day was ending here, you're absolutely wrong. The
 night had just started and we still had too many beers to drink. We
@@ -102,10 +101,9 @@ guess everyone has their own opinion about what happened during the
 the stars, games and many more. We even heard about a beer competition
 and bachata classes. As far as we remember, that was a great night.
 
-***Third day***
+## Third day
 
-Starting the third day energetically, we had a talk by **Prof. Tobias
-Reichenbach** from Imperial College London on 'Auditory processing:
+Starting the third day energetically, we had a talk by [**Prof. Tobias Reichenbach**](https://www.imperial.ac.uk/people/reichenbach) from Imperial College London on 'Auditory processing:
 Neuroengineering and diagnostics of cognition'. It was a super
 interesting talk about neuroprosthetics focused on cochlear implants and
 hearing. Dr. Reichenbach utilized many ideas from theoretical physics to
@@ -124,7 +122,7 @@ this time, there were also yoga classes, volleyball and football and
 even sunbathing. Everyone had chosen her or his favourite activity to
 enjoy the free time.
 
-![Brave participants of the second hike and pre-yoga stretching class](/img/190530-retreat/image5.png)
+![Brave participants of the second hike and pre-yoga stretching class](/img/190530-retreat/image4.png)
 
 After a bit of exercising, we had the second round of student talks. We
 really enjoyed the variety of topics and the enthusiasm all students
@@ -138,22 +136,21 @@ pretty and waiting for the late ones hoping that the sun was still up by
 the time they finished. Against all the odds we managed to get a great
 **MSNE-retreat group picture**. The proof is right here.
 
-![Group picture during the retreat fancy night](/img/190530-retreat/image6.png)
+![Group picture during the retreat fancy night](/img/190530-retreat/image5.png)
 
 Last night was coming and so the *'Neuro-quizz'* and last beer
 championship day. We were impressed by how little we know about
 neuroscience, and how many ways we have to show NMDA with our body. Some
 representations were outstanding.
 
-***Fourth day***
+## Fourth day
 
 It was sad to wake up and understand that it was the last day of seeing
 Nick and Aleks carrying beer, organizers running with chairs up and
 down, getting stressed with 'everything has to be perfect' and enjoying
 that incredible landscape at any moment.
 
-That morning we heard a talk held by **Prof. Albert Compte** from
-IDIBAPS titled 'Circuit Mechanisms of Working Memory'. He told us about
+That morning we heard a talk held by [**Prof. Albert Compte**](https://braincircuitsbehavior.org/people-posts/albert-compte) from IDIBAPS titled 'Circuit Mechanisms of Working Memory'. He told us about
 the ring model he developed to explain working memory phenomena his lab
 is studying. The talk was inspiring, some of us even consider carrying
 out a research internship to learn more about it.
@@ -173,8 +170,6 @@ our amazing organizers that made this real and ENB for funding this kind
 of events, that are hugely valuable. We hope to see everyone (and many
 others!) for the next retreat and enjoy as much as we did last time. New
 organizers ... try to beat this!
-
-Masha and Laura
 
 {{< chip "Profile - Mariia Popova-cropped.jpg" "Masha Popova">}}
 
